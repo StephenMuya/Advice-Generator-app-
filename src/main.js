@@ -1,0 +1,1 @@
+const quotesApi = https://www.stands4.com/services/v2/quotes.php;
